@@ -38,7 +38,7 @@ Think of this as the guide I wish I had when I was learning these concepts!
 
 ---
 
-🤔 The "Why" Behind Promises {#why-promises}
+## 🤔 The "Why" Behind Promises
 
 Before we dive into code, let's talk about why Promises exist. You've probably written code like this:
 
@@ -141,7 +141,7 @@ Don't worry if this looks overwhelming right now. We're going to walk through ev
 
 ---
 
-## 🔧 TypeScript Fundamentals (The Building Blocks) {#typescript-fundamentals}
+## 🔧 TypeScript Fundamentals (The Building Blocks)
 
 Alright, let's start with the TypeScript concepts. I know, I know - you want to get to the Promise stuff. But trust me, understanding these fundamentals will make everything else click.
 
