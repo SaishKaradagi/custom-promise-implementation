@@ -38,7 +38,7 @@ Think of this as the guide I wish I had when I was learning these concepts!
 
 ---
 
-## 🤔 The "Why" Behind Promises {#why-promises}
+## 🤔 The "Why" Behind Promises
 
 Before we dive into code, let's talk about why Promises exist. You've probably written code like this:
 
